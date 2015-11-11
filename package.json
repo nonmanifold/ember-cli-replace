@@ -57,7 +57,7 @@
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0",
-    "broccoli-replace": "^0.11.0"
+    "broccoli-replace": "git+https://github.com/nonmanifold/broccoli-replace/#nonmanifold-patch-1"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
